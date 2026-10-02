@@ -1,6 +1,6 @@
 import java.util.*;
 // max subarrays sum
-public class glad{
+public class Solution{
     public static int trappedRainwater(int height[]) {
         int n = height.length;
         // Calculate left max boundary - array
