@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class glad{
+public class Solution{
     public static void printSpiral(int matrix[][]){
         int startRow = 0;
         int startCol = 0;
