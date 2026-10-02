@@ -1,0 +1,16 @@
+import java.util.*;
+public class revise{
+    public static void main(String args[]){
+        StringBuilder sb = new StringBuilder("");
+        for(char ch='a'; ch<='z';ch++) {
+            sb.append(ch);
+        }
+        // O(26)
+        System.out.println(sb);
+        //System.out.println(sb.length());
+    }
+   
+}
+//o/p-
+//abcdefghijklmnopqrstuvwxyz
+//26
