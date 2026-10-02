@@ -1,5 +1,5 @@
 import java.util.*;
-public class revise{
+public class Solution{
     public static String subString(String str, int si, int ei){
         String substr = "";
         for(int i=si; i<ei; i++){
