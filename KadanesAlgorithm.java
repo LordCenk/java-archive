@@ -1,6 +1,6 @@
 import java.util.*;
 // Print subarrays
-public class glad {
+public class Solution {
     public static void maxSubarraySum(int numbers[]){
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE;
